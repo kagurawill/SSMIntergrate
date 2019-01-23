@@ -1,0 +1,8 @@
+#windows下创建gitignore文件：新建文件  .gitignore.  保存，默认会变成.gitignore
+#gitignore文件语法:
+.idea/
+.settings/
+.svn/
+*.iml
+*.classpath
+*.project
